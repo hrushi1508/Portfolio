@@ -1,0 +1,6 @@
+button{
+    border-radius: 20px;
+}
+button:hover{
+    box-shadow: 5px 5px 20px rgb(0, 255, 123);
+}

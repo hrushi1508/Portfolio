@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: stretch;
+    align-items: center;
+    text-align: center;
+}
+img{
+    width: 500px;
+}
